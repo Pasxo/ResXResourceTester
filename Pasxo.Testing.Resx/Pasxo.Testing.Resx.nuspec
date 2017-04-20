@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Pasxo.Testing.Resx</id>
+    <version>1.0</version>
+    <title>Resx Resource Tester</title>
+    <authors>Pasxo</authors>
+    <owners>Pasxo</owners>
+    <projectUrl>http://github.com/Pasxo/ResxResourceTester</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Helper library for testing .resx files</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+	<dependencies>
+	</dependencies>
+	<references></references>
+  </metadata>
+  <files>
+  </files>
+</package>
