@@ -6,12 +6,12 @@
     <title>Resx Resource Tester</title>
     <authors>Pasxo</authors>
     <owners>Pasxo</owners>
-    <projectUrl>http://github.com/Pasxo/ResxResourceTester</projectUrl>
+    <projectUrl>https://github.com/Pasxo/ResXResourceTester</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Helper library for testing .resx files</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2017</copyright>
-    <tags></tags>
+    <tags>resx helper</tags>
 	<dependencies>
 	</dependencies>
 	<references></references>
