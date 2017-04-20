@@ -4,9 +4,13 @@ are all there and not missing any string keys from locale to locale.
 
 ## Install
 
-*Will be released to NuGet soon*
+The library is released on NuGet as `Pasxo.Testing.Resx`.
 
 ## Example Use
+
+The best use of the library is probably as a set of unit tests for the resource file in question. An example use
+in this capacity is below. If you look at the source code on GitHub, you can see the example project with the
+resource files and tests in action.
 
 ```cs
 namespace Examples.Tests
